@@ -18,7 +18,7 @@
 
 最终呈现：
 
-[WorPress 精品插件大全](https://bestscreenshot.com/best-wordpress-plugins/)
+[WordPress 精品插件大全](https://bestscreenshot.com/best-wordpress-plugins/)
 
 
 
